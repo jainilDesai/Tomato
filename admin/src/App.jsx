@@ -1,6 +1,6 @@
 import React from "react";
-import Navbar from "./components/Navbar/Navbar.jsx";
-import Sidebar from "./components/sidebar/Sidebar.jsx";
+import Navbar from "./components/Navbar/Navbar";
+import Sidebar from "./components/sidebar/Sidebar";
 import { Route, Routes } from "react-router-dom";
 import Add from "./pages/Add/Add";
 import List from "./pages/List/List";
@@ -9,7 +9,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
-  const url = "http://localhost:4000";
+  const url = "https://tomato-backend-2ewv.onrender.com";
   return (
     <div>
       <ToastContainer />
