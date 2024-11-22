@@ -64,3 +64,16 @@ npm start server
 
 - [ ] Remember to include your Database in db.js and your Stripe Secret Key in .env
 
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+
+## Contact
+
+For support, email desaijainil9657@gmail.com or me at DM at [@jainil_desai](https://www.instagram.com/jainil_desai/) on Instagram.
+
+#
+
+Feel free to customize it further based on your Imagination and Creativity :)
+
