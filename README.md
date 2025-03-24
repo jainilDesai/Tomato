@@ -63,12 +63,11 @@ npm start server
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-
 ## Contact
 
-For support, email desaijainil9657@gmail.com or me at DM at [@jainil_desai](https://www.instagram.com/jainil_desai/) on Instagram.
+For technical support or assistance, please email support@stocksage.com. For other inquiries, contact me at desaijainil9657@gmail.com.
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/jainil-desai-ab51b9275/).
 
-#
 
 Feel free to customize it further based on your Imagination and Creativity :)
 
